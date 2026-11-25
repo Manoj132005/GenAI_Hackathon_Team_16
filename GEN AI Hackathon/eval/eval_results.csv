@@ -1,0 +1,121 @@
+case_id,case_type,expected_label,predicted_label,judge_available,correct,toxicity_before,toxicity_after,similarity
+safe_000,safe,Safe,Safe,False,True,0.9897,0.0008,0.9618
+still_toxic_000,still_toxic,Still toxic,Still toxic,False,True,0.9897,0.9897,1.0
+meaning_lost_000,meaning_lost,Meaning lost,Meaning lost,False,True,0.9897,0.0026,0.0496
+safe_001,safe,Safe,Safe,False,True,0.9115,0.2998,0.5893
+still_toxic_001,still_toxic,Still toxic,Still toxic,False,True,0.9115,0.9115,1.0
+meaning_lost_001,meaning_lost,Meaning lost,Meaning lost,False,True,0.9115,0.0032,0.1558
+safe_002,safe,Safe,Safe,False,True,0.8364,0.0644,0.7436
+still_toxic_002,still_toxic,Still toxic,Still toxic,False,True,0.8364,0.8364,1.0
+meaning_lost_002,meaning_lost,Meaning lost,Meaning lost,False,True,0.8364,0.0087,0.1049
+safe_003,safe,Safe,Safe,False,True,0.9583,0.0015,0.8368
+still_toxic_003,still_toxic,Still toxic,Still toxic,False,True,0.9583,0.9583,1.0
+meaning_lost_003,meaning_lost,Meaning lost,Meaning lost,False,True,0.9583,0.0025,0.1642
+safe_004,safe,Safe,Safe,False,True,0.8928,0.0436,0.4495
+still_toxic_004,still_toxic,Still toxic,Still toxic,False,True,0.8928,0.8928,1.0
+meaning_lost_004,meaning_lost,Meaning lost,Meaning lost,False,True,0.8928,0.0007,0.115
+safe_005,safe,Safe,Safe,False,True,0.9814,0.0007,0.9326
+still_toxic_005,still_toxic,Still toxic,Still toxic,False,True,0.9814,0.9814,1.0
+meaning_lost_005,meaning_lost,Meaning lost,Meaning lost,False,True,0.9814,0.0009,0.2267
+safe_006,safe,Safe,Safe,False,True,0.5356,0.0012,0.6257
+still_toxic_006,still_toxic,Still toxic,Still toxic,False,True,0.5356,0.5356,1.0
+meaning_lost_006,meaning_lost,Meaning lost,Meaning lost,False,True,0.5356,0.0262,0.2699
+safe_007,safe,Safe,Still toxic,False,False,0.0056,0.0026,0.708
+still_toxic_007,still_toxic,Still toxic,Still toxic,False,True,0.0056,0.0056,1.0
+meaning_lost_007,meaning_lost,Meaning lost,Still toxic,False,False,0.0056,0.0009,0.0552
+safe_008,safe,Safe,Safe,False,True,0.9839,0.0032,0.6577
+still_toxic_008,still_toxic,Still toxic,Still toxic,False,True,0.9839,0.9839,1.0
+meaning_lost_008,meaning_lost,Meaning lost,Meaning lost,False,True,0.9839,0.0008,0.0394
+safe_009,safe,Safe,Safe,False,True,0.9843,0.0087,0.6171
+still_toxic_009,still_toxic,Still toxic,Still toxic,False,True,0.9843,0.9843,1.0
+meaning_lost_009,meaning_lost,Meaning lost,Meaning lost,False,True,0.9843,0.0012,0.1455
+safe_010,safe,Safe,Safe,False,True,0.888,0.0025,0.5713
+still_toxic_010,still_toxic,Still toxic,Still toxic,False,True,0.888,0.888,1.0
+meaning_lost_010,meaning_lost,Meaning lost,Meaning lost,False,True,0.888,0.0096,0.1129
+safe_011,safe,Safe,Safe,False,True,0.9745,0.0007,0.8704
+still_toxic_011,still_toxic,Still toxic,Still toxic,False,True,0.9745,0.9745,1.0
+meaning_lost_011,meaning_lost,Meaning lost,Meaning lost,False,True,0.9745,0.0006,0.2038
+safe_012,safe,Safe,Safe,False,True,0.9868,0.0009,0.7737
+still_toxic_012,still_toxic,Still toxic,Still toxic,False,True,0.9868,0.9868,1.0
+meaning_lost_012,meaning_lost,Meaning lost,Still toxic,False,False,0.9868,0.5171,0.1726
+safe_013,safe,Safe,Safe,False,True,0.9086,0.0262,0.8032
+still_toxic_013,still_toxic,Still toxic,Still toxic,False,True,0.9086,0.9086,1.0
+meaning_lost_013,meaning_lost,Meaning lost,Meaning lost,False,True,0.9086,0.0378,0.1709
+safe_014,safe,Safe,Still toxic,False,False,0.0364,0.0009,0.6815
+still_toxic_014,still_toxic,Still toxic,Still toxic,False,True,0.0364,0.0364,1.0
+meaning_lost_014,meaning_lost,Meaning lost,Still toxic,False,False,0.0364,0.0015,0.123
+safe_015,safe,Safe,Safe,False,True,0.9215,0.0008,0.8624
+still_toxic_015,still_toxic,Still toxic,Still toxic,False,True,0.9215,0.9215,1.0
+meaning_lost_015,meaning_lost,Meaning lost,Meaning lost,False,True,0.9215,0.0171,0.0583
+safe_016,safe,Safe,Safe,False,True,0.9879,0.0012,0.9149
+still_toxic_016,still_toxic,Still toxic,Still toxic,False,True,0.9879,0.9879,1.0
+meaning_lost_016,meaning_lost,Meaning lost,Meaning lost,False,True,0.9879,0.001,0.0309
+safe_017,safe,Safe,Safe,False,True,0.9939,0.0096,0.4737
+still_toxic_017,still_toxic,Still toxic,Still toxic,False,True,0.9939,0.9939,1.0
+meaning_lost_017,meaning_lost,Meaning lost,Meaning lost,False,True,0.9939,0.0012,0.0
+safe_018,safe,Safe,Safe,False,True,0.9896,0.0006,0.8307
+still_toxic_018,still_toxic,Still toxic,Still toxic,False,True,0.9896,0.9896,1.0
+meaning_lost_018,meaning_lost,Meaning lost,Meaning lost,False,True,0.9896,0.009,0.0
+safe_019,safe,Safe,Still toxic,False,False,0.998,0.5171,0.4434
+still_toxic_019,still_toxic,Still toxic,Still toxic,False,True,0.998,0.998,1.0
+meaning_lost_019,meaning_lost,Meaning lost,Meaning lost,False,True,0.998,0.001,0.0189
+safe_020,safe,Safe,Safe,False,True,0.6738,0.0378,0.7021
+still_toxic_020,still_toxic,Still toxic,Still toxic,False,True,0.6738,0.6738,1.0
+meaning_lost_020,meaning_lost,Meaning lost,Meaning lost,False,True,0.6738,0.0008,0.2724
+safe_021,safe,Safe,Safe,False,True,0.9843,0.0015,0.3619
+still_toxic_021,still_toxic,Still toxic,Still toxic,False,True,0.9843,0.9843,1.0
+meaning_lost_021,meaning_lost,Meaning lost,Meaning lost,False,True,0.9843,0.0165,0.1118
+safe_022,safe,Safe,Safe,False,True,0.9801,0.0171,0.9582
+still_toxic_022,still_toxic,Still toxic,Still toxic,False,True,0.9801,0.9801,1.0
+meaning_lost_022,meaning_lost,Meaning lost,Meaning lost,False,True,0.9801,0.0021,0.0204
+safe_023,safe,Safe,Safe,False,True,0.962,0.001,0.6763
+still_toxic_023,still_toxic,Still toxic,Still toxic,False,True,0.962,0.962,1.0
+meaning_lost_023,meaning_lost,Meaning lost,Meaning lost,False,True,0.962,0.0023,0.1539
+safe_024,safe,Safe,Safe,False,True,0.6944,0.0012,0.96
+still_toxic_024,still_toxic,Still toxic,Still toxic,False,True,0.6944,0.6944,1.0
+meaning_lost_024,meaning_lost,Meaning lost,Meaning lost,False,True,0.6944,0.0013,0.0409
+safe_025,safe,Safe,Safe,False,True,0.9781,0.009,0.9613
+still_toxic_025,still_toxic,Still toxic,Still toxic,False,True,0.9781,0.9781,1.0
+meaning_lost_025,meaning_lost,Meaning lost,Meaning lost,False,True,0.9781,0.0011,0.0811
+safe_026,safe,Safe,Safe,False,True,0.9893,0.001,0.5544
+still_toxic_026,still_toxic,Still toxic,Still toxic,False,True,0.9893,0.9893,1.0
+meaning_lost_026,meaning_lost,Meaning lost,Meaning lost,False,True,0.9893,0.0008,0.0493
+safe_027,safe,Safe,Safe,False,True,0.8787,0.0008,0.3994
+still_toxic_027,still_toxic,Still toxic,Still toxic,False,True,0.8787,0.8787,1.0
+meaning_lost_027,meaning_lost,Meaning lost,Meaning lost,False,True,0.8787,0.0019,0.1327
+safe_028,safe,Safe,Meaning lost,False,False,0.9905,0.0165,0.2766
+still_toxic_028,still_toxic,Still toxic,Still toxic,False,True,0.9905,0.9905,1.0
+meaning_lost_028,meaning_lost,Meaning lost,Meaning lost,False,True,0.9905,0.0006,0.1792
+safe_029,safe,Safe,Safe,False,True,0.9957,0.0021,0.8933
+still_toxic_029,still_toxic,Still toxic,Still toxic,False,True,0.9957,0.9957,1.0
+meaning_lost_029,meaning_lost,Meaning lost,Meaning lost,False,True,0.9957,0.001,0.2266
+safe_030,safe,Safe,Safe,False,True,0.949,0.0023,0.8482
+still_toxic_030,still_toxic,Still toxic,Still toxic,False,True,0.949,0.949,1.0
+meaning_lost_030,meaning_lost,Meaning lost,Still toxic,False,False,0.949,0.5547,0.1691
+safe_031,safe,Safe,Safe,False,True,0.981,0.0013,0.9369
+still_toxic_031,still_toxic,Still toxic,Still toxic,False,True,0.981,0.981,1.0
+meaning_lost_031,meaning_lost,Meaning lost,Meaning lost,False,True,0.981,0.0013,0.0
+safe_032,safe,Safe,Safe,False,True,0.5761,0.0011,0.6491
+still_toxic_032,still_toxic,Still toxic,Still toxic,False,True,0.5761,0.5761,1.0
+meaning_lost_032,meaning_lost,Meaning lost,Meaning lost,False,True,0.5761,0.0389,0.2845
+safe_033,safe,Safe,Meaning lost,False,False,0.6961,0.0008,0.2942
+still_toxic_033,still_toxic,Still toxic,Still toxic,False,True,0.6961,0.6961,1.0
+meaning_lost_033,meaning_lost,Meaning lost,Meaning lost,False,True,0.6961,0.0008,0.1647
+safe_034,safe,Safe,Safe,False,True,0.9749,0.0019,0.9769
+still_toxic_034,still_toxic,Still toxic,Still toxic,False,True,0.9749,0.9749,1.0
+meaning_lost_034,meaning_lost,Meaning lost,Meaning lost,False,True,0.9749,0.2998,0.0837
+safe_035,safe,Safe,Safe,False,True,0.9785,0.0006,0.8937
+still_toxic_035,still_toxic,Still toxic,Still toxic,False,True,0.9785,0.9785,1.0
+meaning_lost_035,meaning_lost,Meaning lost,Meaning lost,False,True,0.9785,0.0644,0.0542
+safe_036,safe,Safe,Safe,False,True,0.9908,0.001,0.7279
+still_toxic_036,still_toxic,Still toxic,Still toxic,False,True,0.9908,0.9908,1.0
+meaning_lost_036,meaning_lost,Meaning lost,Meaning lost,False,True,0.9908,0.0015,0.1708
+safe_037,safe,Safe,Still toxic,False,False,0.9986,0.5547,0.9128
+still_toxic_037,still_toxic,Still toxic,Still toxic,False,True,0.9986,0.9986,1.0
+meaning_lost_037,meaning_lost,Meaning lost,Meaning lost,False,True,0.9986,0.0436,0.1517
+safe_038,safe,Safe,Safe,False,True,0.5921,0.0013,0.8673
+still_toxic_038,still_toxic,Still toxic,Still toxic,False,True,0.5921,0.5921,1.0
+meaning_lost_038,meaning_lost,Meaning lost,Meaning lost,False,True,0.5921,0.0007,0.0
+safe_039,safe,Safe,Safe,False,True,0.9386,0.0389,0.609
+still_toxic_039,still_toxic,Still toxic,Still toxic,False,True,0.9386,0.9386,1.0
+meaning_lost_039,meaning_lost,Meaning lost,Meaning lost,False,True,0.9386,0.0012,0.0254

@@ -1,0 +1,22 @@
+{
+  "25d40e432c47fd0a958c7ec1a4db67c5085700eb516b090896754bfa20c05371": {
+    "meaning_preserved": "partial",
+    "what_was_lost": "The absolute and universal nature of the original claim.",
+    "reason": "The original states that absolutely 'nobody' knows what they are doing, implying 100% incompetence. The rewrite uses softer language ('seems to lack') and implies a general deficiency rather than a complete absence of competence, making it less absolute."
+  },
+  "7490dce4e44c4cb5339b473dfff5455590b5146298fcf4df7904c97284c411f2": {
+    "meaning_preserved": "partial",
+    "what_was_lost": "The intensity and emotional emphasis of the original statement.",
+    "reason": "The removal of profanity reduces the emotional impact and strong expression of frustration or disbelief present in the original comment."
+  },
+  "e6c8a260671b2bd48e25b0bdc5e49eed41679de10cb3ac4f96900e4303597a26": {
+    "meaning_preserved": "yes",
+    "what_was_lost": "none",
+    "reason": "The rewrite accurately conveys the need for courage expressed in the original, replacing an informal idiom with a direct term."
+  },
+  "511ef5444ef84ef21d3021e66ad1c2da6c98ecb56e7222e928b1181629a50cb9": {
+    "meaning_preserved": "partial",
+    "what_was_lost": "The strong emotional emphasis or frustration.",
+    "reason": "The profanity, which served as an intensifier, was removed, reducing the emotional impact but keeping the core question intact."
+  }
+}
